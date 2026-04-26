@@ -1,2 +1,2 @@
 # Baza-podataka
-FOI projekt kolegij Baze podataka
+## FOI projekt kolegij Baze podataka
